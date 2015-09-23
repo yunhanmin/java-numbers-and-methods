@@ -1,0 +1,15 @@
+/*
+ * Project: DayName.java
+ * Description: Prints the name of the day of the week of an int input
+ * Date: Sept 23, 2015
+ */
+
+import java.util.Scanner;
+
+public class DayName {
+  
+  public void static main( String[] args ) {
+    
+  } // end main method
+  
+} // end class

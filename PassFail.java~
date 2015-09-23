@@ -1,0 +1,16 @@
+/*
+ * Project: PassFail.java
+ * Description: Returns true/false if you pased/failed a class/test
+ * Name: Hanmin Yun
+ * Date: Sept 23, 2015
+ */
+
+public class PassFail {
+
+  public static void main( String[] args ){
+    
+    
+    
+  } // end main method
+  
+} // end class

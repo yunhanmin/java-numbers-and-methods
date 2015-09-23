@@ -1,0 +1,21 @@
+/*
+ * Project: TableOfBases.java
+ * Description: Prints a table of Decimal, Binary. Octal, Hex, ASCII characters
+ * Name: Hanmin Yun
+ * Date: Sept 23, 2015
+ */
+
+public class TableOfBases {
+  
+  public static void main( Stirng[] args ) {
+    
+    System.out.println( "TABLE OF BASES" );
+    System.out.println( "Decimal\tBinary\tOctal\tHex\tASCII" );
+    
+    for ( int i = 65; i <= 90; i++ ) {
+      
+    }
+    
+  } // end main method
+  
+} // end class
